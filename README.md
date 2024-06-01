@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Grace. I am a 2nd-year undergrad reading Maths & Stats at Oxford. My primary research interest is in <ins>Multi-Agent Systems</ins>, which lies at the intersection of Math, Stats, CompSci, Econ, and various social and behavioural sciences! I've also been involved in AI Accountability (which is AI Ethics x Safety x Governance). As you can see, I'm very into interdisciplinary stuff!
+
+My pronouns are she/they. You can reach me via [LinkedIn](https://www.linkedin.com/in/ygraceyu/) or yu\[at\]maths.ox.ac.uk
+
 <!--
 **yyu1230/yyu1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
