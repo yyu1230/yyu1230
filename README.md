@@ -2,7 +2,7 @@
 
 My name is Grace. I am a 3rd-year undergrad reading Maths & Stats at Oxford. I have wide-ranging interests -- spanning ethics, game theory, data science, artificial intelligence, and finance -- and am especially passionate about exploring the intersection of social and behavioural sciences with quantitative analysis!!
 
-My pronouns are she/they. Feel free to connect with me on [LinkedIn/ygraceyu](https://www.linkedin.com/in/ygraceyu/) or email (yongqing\[dot\]grace\[dot\]yu\[at\]gmail\[dot\]com).
+My pronouns are she/they. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ygraceyu/) or [email](mailto:yongqing.grace.yu@gmail.com).
 
 <!--
 **yyu1230/yyu1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
